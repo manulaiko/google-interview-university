@@ -41,7 +41,7 @@ Si lo que quieres es ser ingeniero de escalabilidad / seguridad o ingeniero de s
 - [Acerca de los recursos en vídeo](#acerca-de-los-recursos-en-video)
 - [Prepárate para la entrevista](#preparate-para-la-entrevista)
 - [Escoge un lenguaje para la entrevista](#escoge-un-lenguaje-para-la-entrevista)
-- [Book List](#book-list)
+- [Lista de libros](#lista-de-libros)
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -317,27 +317,27 @@ Lee más acerca de opciones:
 
 Verás algunos materiales de aprendizaje de C, C++ y Python abajo, porque estoy aprendiendo. Hay algunos libros involucrados, ve al final.
 
-## Book List
+## Lista de libros
 
-This is a shorter list than what I used. This is abbreviated to save you time.
+Ésta es una lista más corta que la que yo usé. Está abreviada para ahorrarte tiempo.
 
-### Interview Prep
+### Preparación para la entrevista
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-    - answers in C++ and Java
-    - recommended in Google candidate coaching
-    - this is a good warm-up for Cracking the Coding Interview
-    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - answers in Java
-    - recommended on the [Google Careers site](https://www.google.com/about/careers/how-we-hire/interview/)
-    - If you see people reference "The Google Resume", it was a book replaced by "Cracking the Coding Interview".
+- [ ] [Entrevistas de Programación Expuestas: Secretos para Conseguir tu Próximo Trabajo, 2a Edición](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+    - respuestas en C++ y Java
+    - recommendado en entrenamiento para candidato Goole
+    - éste es un buen calentamiento para Cracking la Entrevista de Programación
+    - no muy difícil, la mayoría de los problemas podrían ser más fáciles que lo que verás en una entrevista (por lo que he leído)
+- [ ] [Cracking la Entrevista de Programación, 6a Edición](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+    - respuestas en Java
+    - recommendado en el [sitio de Google Careers](https://www.google.com/about/careers/how-we-hire/interview/)
+    - si ves personas que hacen referencia a "El Currículum Google", éste era un libro reemplazado por "Cracking la Entrevista de Programación".
 
-If you have tons of extra time:
+Si tienes mucho tiempo extra:
 
-- [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-    - all code is in C++, very good if you're looking to use C++ in your interview
-    - a good book on problem solving in general.
+- [ ] [Elementos de las Entrevistas de Trabajo](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+    - todo el código está en C++, muy bueno si has optado por C++ en tu entrevista
+    - un libro sobre solución de problemas en general.
 
 ### Computer Architecture
 
